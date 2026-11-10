@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyberpunk-header.svg" width="100%" alt="Leandro Oliveira — Fullstack Developer. Uma cidade cyberpunk em ciano e violeta." />
+<img src="./assets/anime-cyberpunk-banner.jpg" width="100%" alt="Leandro Oliveira — Fullstack Developer. Ilustração anime de um desenvolvedor em seu quarto com vista para uma cidade cyberpunk." />
 
 <br />
 
